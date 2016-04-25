@@ -1,5 +1,7 @@
 # Simple Analog Clock
 
+<img src="./screen_shot.png" width="400" alt="screenshot" />
+
 ## 概要
 
 とてもシンプルなアナログ時計です。  
