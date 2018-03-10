@@ -7,7 +7,7 @@
 とてもシンプルなアナログ時計です。  
 Reactを使用して、SVGを描画しています。
 
-[Sample(Github Pages)](http://syhashi.github.io/react-svg-clock/)
+[Sample(Github Pages)](http://sy-hash.github.io/react-svg-clock/)
 
 ## 留意点
 
